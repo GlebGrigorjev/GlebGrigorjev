@@ -1,16 +1,54 @@
 ### Hi there 👋
 
-<!--
-**GlebGrigorjev/GlebGrigorjev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m a software developer specializinig in C# and .net <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+ and Databases.
 
-Here are some ideas to get you started:
+🚀 Some of my main projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Project in Angular:
+
+[![ReadMe Card]()]
+
+
+-  🤖 I work in Deloitte Robotics Spain
+
+- :bar_chart: I love Stats and make cool Dashboards
+
+<p> 
+📫  Born in Latvia, Riga
+<br>
+📌  Living in Latvia, Riga
+</p>
+
+<hr>
+
+## Follow Me
+
+
+[![Gmail Badge](https://img.shields.io/badge/glebgrigorjev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.glebgrigorjev@gmail.com)](mailto:ing.glebgrigorjev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-glebgrigorjev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/glebgrigorjev/)](https://www.linkedin.com/in/glebsgrigorjevs/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/glebgrigorjev)](https://github.com/GlebGrigorjev)
+
+<hr>
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=glebgrigorjev&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebgrigorjev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
