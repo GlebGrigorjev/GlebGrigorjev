@@ -5,7 +5,8 @@
 
 🚀 Some of my main projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=flightplanner)](https://github.com/GlebGrigorjev/FlightPlanner)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=flightplanner)](https://github.com/GlebGrigorjev/flightplanner)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=scooterrental)](https://github.com/GlebGrigorjev/scooterrental)
 
 <p> 
 📫  Born in Latvia, Riga
