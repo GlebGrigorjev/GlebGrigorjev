@@ -5,8 +5,6 @@
 
 🚀 Some of my main projects:
 
-- 🔭 Here are some of my project I ahve worked on:
-
 [![ReadMe Card]()]
 
 
