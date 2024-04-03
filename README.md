@@ -5,7 +5,7 @@
 
 🚀 Some of my main projects:
 
-[![ReadMe Card]()]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=flightplanner)](https://github.com/GlebGrigorjev/FlightPlanner)
 
 
 
