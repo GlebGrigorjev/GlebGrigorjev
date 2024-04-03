@@ -7,8 +7,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=flightplanner)](https://github.com/GlebGrigorjev/FlightPlanner)
 
-
-
 <p> 
 📫  Born in Latvia, Riga
 <br>
