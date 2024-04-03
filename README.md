@@ -5,14 +5,11 @@
 
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on a Project in Angular:
+- 🔭 Here are some of my project I ahve worked on:
 
 [![ReadMe Card]()]
 
 
--  🤖 I work in Deloitte Robotics Spain
-
-- :bar_chart: I love Stats and make cool Dashboards
 
 <p> 
 📫  Born in Latvia, Riga
