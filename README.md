@@ -7,6 +7,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=flightplanner)](https://github.com/GlebGrigorjev/flightplanner)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=scooterrental)](https://github.com/GlebGrigorjev/scooterrental)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glebgrigorjev&repo=CvManagement)](https://github.com/GlebGrigorjev/CvManagement)
 
 <p> 
 📫  Born in Latvia, Riga
